@@ -1,9 +1,8 @@
 xumingyang
 ========
 
-example  
-    create table a  
-    (a int);  
+The connection pool in linux kernel layer.
+
     
 ###Requires：
  * X86 CPU
